@@ -1,6 +1,7 @@
 Quesiton 1
 
 To compare E-Table and Database:
+
 While writing the desired type (int, string, etc.) to the desired cell in Spreadsheet, the specified type of data should be written to each cell in the database. 
 
 While you can make calculations by writing formulas while filling the data in Spreadsheet, there is no such situation in the database.
